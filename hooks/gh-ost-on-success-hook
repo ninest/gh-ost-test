@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "[HOOK] Migration success for table $GH_OST_DATABASE_NAME.$GH_OST_TABLE_NAME"

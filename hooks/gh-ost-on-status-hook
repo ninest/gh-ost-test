@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "[HOOK] Status: ${GH_OST_ELAPSED_SECONDS}s ${GH_OST_STATUS}"
